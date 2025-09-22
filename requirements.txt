@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+pytesseract
+opencv-python-headless
+numpy
+rapidfuzz
+gunicorn
